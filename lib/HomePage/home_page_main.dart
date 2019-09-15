@@ -7,7 +7,6 @@ import 'package:flutter_swiper/flutter_swiper.dart';
 import 'package:flutter_zhihu_daily/Common/colors.dart';
 import 'package:flutter_zhihu_daily/Common/config.dart';
 import 'package:flutter_zhihu_daily/DataBean/home_news_bean.dart';
-import 'package:flutter_zhihu_daily/HomePage/test_refresh.dart';
 import 'package:flutter_zhihu_daily/utils/date_util.dart';
 import 'package:flutter_zhihu_daily/widgets/my_space_bar.dart';
 
